@@ -1,5 +1,3 @@
-package LeetCode;
-
 //链表类
 public class ListNode {
     int val;
